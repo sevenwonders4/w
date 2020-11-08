@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>びっくり on ワンダーカタログ</title>
+		<link>https://sevenwonders4.github.io/w/tags/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A/</link>
+		<description>Recent content in びっくり on ワンダーカタログ</description>
+		
+		<generator>Hugo -- gohugo.io</generator>
+		<language>ja-jp</language>
+		<lastBuildDate>Sun, 01 Nov 2020 08:00:00 +0900</lastBuildDate>
+		
+		<atom:link href="https://sevenwonders4.github.io/w/tags/%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+		<item>
+			<title>砂漠の大穴</title>
+			<link>https://sevenwonders4.github.io/w/posts/2020/11/hole-in-desert/</link>
+			<pubDate>Sun, 01 Nov 2020 08:00:00 +0900</pubDate>
+			
+			<guid>https://sevenwonders4.github.io/w/posts/2020/11/hole-in-desert/</guid>
+			<description>&lt;p&gt;ここまでが概要&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>網の目シティ</title>
+			<link>https://sevenwonders4.github.io/w/posts/2020/11/la-plata/</link>
+			<pubDate>Sun, 01 Nov 2020 06:00:00 +0900</pubDate>
+			
+			<guid>https://sevenwonders4.github.io/w/posts/2020/11/la-plata/</guid>
+			<description>&lt;p&gt;ここまでが概要&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>振り向きドラゴン</title>
+			<link>https://sevenwonders4.github.io/w/posts/2020/11/paper-dragon-illusion/</link>
+			<pubDate>Sun, 01 Nov 2020 01:00:00 +0900</pubDate>
+			
+			<guid>https://sevenwonders4.github.io/w/posts/2020/11/paper-dragon-illusion/</guid>
+			<description>&lt;p&gt;ここまでが概要&lt;/p&gt;</description>
+		</item>
+		
+		<item>
+			<title>てすと</title>
+			<link>https://sevenwonders4.github.io/w/posts/2020/10/test/</link>
+			<pubDate>Sat, 10 Oct 2020 00:00:00 +0900</pubDate>
+			
+			<guid>https://sevenwonders4.github.io/w/posts/2020/10/test/</guid>
+			<description>&lt;p&gt;ここまでが概要&lt;/p&gt;</description>
+		</item>
+		
+	</channel>
+</rss>
