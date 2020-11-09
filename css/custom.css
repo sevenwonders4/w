@@ -62,8 +62,8 @@
 }
 
 .logo img {
-  width: 55px;
-  height: 55px;
+  width: 40px;
+  height: 40px;
   padding: 0 5px;
   vertical-align: bottom;
 }
@@ -182,12 +182,12 @@ article.sn > .article-body h6:after {
     float: left;
 	background-color: #fff;
     border-radius: 4px;
-    color: #5f6c7b;
+    color: #4c5662;
     font-size: .8rem;
     margin: .25rem;
-    padding: 0.15rem .65rem;
-    line-height: 1.75rem;
-	border: 1px solid #5f6c7b;
+    padding: 0.3rem .5rem;
+    line-height: 1rem;
+	border: 1px solid #4c5662;
  }
 
   .tags li {
@@ -197,13 +197,14 @@ article.sn > .article-body h6:after {
   .tags a {
 	display: inline-block;
 	margin: 0 .6em .6em 0;
-    padding: 0.5rem .65rem;
-	line-height: 1;
+    padding: 0.3rem .5rem;
+	line-height: 1rem;
+	border-radius: 4px;
     font-size: .8rem;
 	text-decoration: none;
-	color: #5f6c7b;
+	color: #4c5662;
 	background-color: #fff;
-	border: 1px solid #5f6c7b;
+	border: 1px solid #4c5662;
  	}
   .tags a:before {
 	content: "#";
@@ -214,7 +215,7 @@ article.sn > .article-body h6:after {
   .categories li {
     display: block; }
     .categories  a {
-        color: #5f6c7b;
+        color: #4c5662;
         text-decoration: none;
         padding: 6px 0;
         display: block;
@@ -289,7 +290,7 @@ a {
     width: 1.9rem;
     height: 1.9rem;
     line-height: 1.9rem;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 	margin: 0px 1.5px;
 }
 
@@ -365,11 +366,124 @@ a {
   color: #0366D6;
 }
 
-.facts i {
-    color: #5f6c7b;
-}
-
 section.footer > header a {
 	display: block;
 	margin: 0.5rem 0;
+}
+
+
+.sns_parent {
+  text-align: center;
+}
+.sns_section {
+  display: inline-block;
+  text-align: left;
+}
+.sns_button {
+  float: left;
+  box-shadow: inset 0 0 0 2px #42464c;
+  border-radius: 100%;
+  -moz-transition: all 280ms ease;
+  -o-transition: all 280ms ease;
+  -webkit-transition: all 280ms ease;
+  transition: all 280ms ease;
+}
+.sns_button a {
+  display: table-cell;
+  width: 44px;
+  height: 44px;
+  color: #42464c;
+  text-align: center;
+  vertical-align: middle;
+  -moz-transition: all 280ms ease;
+  -o-transition: all 280ms ease;
+  -webkit-transition: all 280ms ease;
+  transition: all 280ms ease;
+}
+.sns_button i {
+  font-size: 20px;
+  vertical-align: middle;
+}
+.sns_button:hover {
+  box-shadow: inset 0 0 0 22px #eaeaea;
+}
+.sns_button + .sns_button {
+  margin: 0 0 0 12px;
+}
+.twitter:hover a {
+  color: #1B95E0;
+}
+.facebook:hover a {
+  color: #3B5999;
+}
+.line:hover a {
+  color: #1dcd00;
+}
+.instagram:hover a {
+  color: #2b5c84;
+}
+.pocket:hover a {
+  color: #EE4056;
+}
+.hatena:hover a {
+  color: #4BA3D9;
+}
+.fa-hatena:before {
+    content: "B!";
+    font-family: Verdana;
+    font-weight: bold
+}
+
+.facts i {
+    color: #4c5662;
+    font-size: 1rem;
+}
+
+.term {
+	margin: .1rem 0rem;
+}
+.term i {
+    color: #4c5662;
+    margin-right: .3em;
+    font-size: 1rem;
+}
+.term li {
+	display: inline-block;
+    margin-right: .5em;
+}
+.term a {
+	display: inline-block;
+    background-color: #fff;
+	border-radius: 4px;
+	color: #4c5662;
+	font-size: .8rem;
+	margin: .3rem .1rem;
+    padding: .3rem .5rem;
+	line-height: 1rem;
+    border: 1px solid #4c5662;
+}
+
+.tag {
+	margin: .1rem 0rem;
+}
+.tag i {
+    color: #4c5662;
+    margin-right: .3em;
+	font-size: 1rem;
+}
+.tag li {
+    display: inline-block;
+}
+.tag a {
+	display: inline-block;
+	background-color: #fff;
+    color: #4c5662;
+	font-size: .8rem;
+	margin: .3rem .1rem;
+    padding: .3rem .5rem;
+	line-height: 1rem;
+	border: 1px solid #4c5662;
+}
+.tag a:before {
+	content: "#";
 }
