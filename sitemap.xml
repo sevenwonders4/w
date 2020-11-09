@@ -88,11 +88,6 @@
   </url>
   
   <url>
-    <loc>https://sevenwonders4.github.io/w/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93/</loc>
-    <lastmod>2020-11-01T08:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sevenwonders4.github.io/w/categories/%E8%87%AA%E7%84%B6%E5%9C%B0%E7%90%83/</loc>
     <lastmod>2020-11-01T08:00:00+09:00</lastmod>
   </url>
@@ -148,22 +143,12 @@
   </url>
   
   <url>
-    <loc>https://sevenwonders4.github.io/w/tags/%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D/</loc>
-    <lastmod>2020-11-01T04:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sevenwonders4.github.io/w/tags/%E4%BA%BA%E9%96%93/</loc>
-    <lastmod>2020-11-01T03:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sevenwonders4.github.io/w/posts/2020/11/family-tree/</loc>
     <lastmod>2020-11-01T03:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sevenwonders4.github.io/w/categories/%E7%A7%91%E5%AD%A6%E5%AD%A6%E5%95%8F/</loc>
+    <loc>https://sevenwonders4.github.io/w/categories/%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93/</loc>
     <lastmod>2020-11-01T03:00:00+09:00</lastmod>
   </url>
   
@@ -175,6 +160,16 @@
   <url>
     <loc>https://sevenwonders4.github.io/w/posts/2020/11/leitisvatn-lake/</loc>
     <lastmod>2020-11-01T02:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenwonders4.github.io/w/tags/%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D/</loc>
+    <lastmod>2020-11-01T01:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenwonders4.github.io/w/tags/%E4%BA%BA%E9%96%93/</loc>
+    <lastmod>2020-11-01T01:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -329,6 +324,11 @@
   
   <url>
     <loc>https://sevenwonders4.github.io/w/tags/%E7%8C%AB/</loc>
+    <lastmod>2020-10-11T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenwonders4.github.io/w/categories/%E7%A7%91%E5%AD%A6%E5%AD%A6%E5%95%8F/</loc>
     <lastmod>2020-10-11T00:00:00+09:00</lastmod>
   </url>
   
