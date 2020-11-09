@@ -347,6 +347,7 @@ a {
 	display: inline-block;
     color: #5f6569;
     padding: 0.5em 0.2em;
+    margin: 0px 2px;
 }
 
 .crumb ol {
