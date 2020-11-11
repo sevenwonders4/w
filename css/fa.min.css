@@ -47,6 +47,9 @@
 .fa-archive:before {
 	content:"\f187"
 }
+.fa-user:before {
+	content:"\f007"
+}
 
 @font-face {
     font-family: "Font Awesome 5 Brands";
