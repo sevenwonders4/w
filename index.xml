@@ -120,5 +120,14 @@
 			<description>&lt;p&gt;ここまでが概要&lt;/p&gt;</description>
 		</item>
 		
+		<item>
+			<title>アバウト</title>
+			<link>https://sevenwonders4.github.io/w/about/</link>
+			<pubDate>Thu, 01 Oct 2020 21:49:20 +0200</pubDate>
+			
+			<guid>https://sevenwonders4.github.io/w/about/</guid>
+			<description></description>
+		</item>
+		
 	</channel>
 </rss>
