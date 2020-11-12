@@ -7,19 +7,10 @@
 		
 		<generator>Hugo -- gohugo.io</generator>
 		<language>ja-jp</language>
-		<lastBuildDate>Sun, 01 Nov 2020 21:49:20 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 01 Nov 2020 11:00:00 +0900</lastBuildDate>
 		
 		<atom:link href="https://sevenwonders4.github.io/w/tags/index.xml" rel="self" type="application/rss+xml" />
 		
-		
-		<item>
-			<title>サイト関係</title>
-			<link>https://sevenwonders4.github.io/w/tags/%E3%82%B5%E3%82%A4%E3%83%88%E9%96%A2%E4%BF%82/</link>
-			<pubDate>Sun, 01 Nov 2020 21:49:20 +0200</pubDate>
-			
-			<guid>https://sevenwonders4.github.io/w/tags/%E3%82%B5%E3%82%A4%E3%83%88%E9%96%A2%E4%BF%82/</guid>
-			<description></description>
-		</item>
 		
 		<item>
 			<title>海外</title>
@@ -153,6 +144,15 @@
 			<pubDate>Sun, 01 Nov 2020 01:00:00 +0900</pubDate>
 			
 			<guid>https://sevenwonders4.github.io/w/tags/%E4%BA%BA%E9%96%93/</guid>
+			<description></description>
+		</item>
+		
+		<item>
+			<title>サイト関係</title>
+			<link>https://sevenwonders4.github.io/w/tags/%E3%82%B5%E3%82%A4%E3%83%88%E9%96%A2%E4%BF%82/</link>
+			<pubDate>Sun, 01 Nov 2020 00:00:00 +0900</pubDate>
+			
+			<guid>https://sevenwonders4.github.io/w/tags/%E3%82%B5%E3%82%A4%E3%83%88%E9%96%A2%E4%BF%82/</guid>
 			<description></description>
 		</item>
 		

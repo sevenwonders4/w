@@ -7,7 +7,7 @@
 		
 		<generator>Hugo -- gohugo.io</generator>
 		<language>ja-jp</language>
-		<lastBuildDate>Sun, 01 Nov 2020 21:49:20 +0200</lastBuildDate>
+		<lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0900</lastBuildDate>
 		
 		<atom:link href="https://sevenwonders4.github.io/w/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
 		
@@ -15,10 +15,11 @@
 		<item>
 			<title>アバウト</title>
 			<link>https://sevenwonders4.github.io/w/about/</link>
-			<pubDate>Sun, 01 Nov 2020 21:49:20 +0200</pubDate>
+			<pubDate>Sun, 01 Nov 2020 00:00:00 +0900</pubDate>
 			
 			<guid>https://sevenwonders4.github.io/w/about/</guid>
-			<description>世界中から面白ニュースを紹介するサイトです 世界や日本で注目されたニュースを紹介＆解説します。 誤った情報があればTwitterのDM等で知らせ</description>
+			<description>&lt;h1 id=&#34;世界中から面白ニュースを紹介するサイトです&#34;&gt;世界中から面白ニュースを紹介するサイトです&lt;/h1&gt;
+&lt;p&gt;世界や日本で注目されたニュースを紹介＆解説します。&lt;/p&gt;</description>
 		</item>
 		
 		<item>
